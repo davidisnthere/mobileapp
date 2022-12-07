@@ -1,0 +1,13 @@
+/home/germ/atos/build/linux/x64/debug/bundle/atos
+/home/germ/atos/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/germ/atos/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/germ/atos/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/germ/atos/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/germ/atos/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/germ/atos/build/linux/x64/debug/bundle/data/flutter_assets/packages/fluttertoast/assets/toastify.js
+/home/germ/atos/build/linux/x64/debug/bundle/data/flutter_assets/packages/fluttertoast/assets/toastify.css
+/home/germ/atos/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/germ/atos/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/germ/atos/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/germ/atos/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/germ/atos/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
